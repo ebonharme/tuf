@@ -152,7 +152,6 @@ Please visit `https://groups.google.com/forum/?fromgroups#!forum/theupdateframew
 
 A group feed is available at: https://groups.google.com/forum/feed/theupdateframework/msgs/atom.xml?num=50
 
-
 Installation
 ------------
 
